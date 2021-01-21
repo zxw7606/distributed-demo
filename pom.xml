@@ -20,7 +20,7 @@
 		<rabbitmq.version>4.2.1</rabbitmq.version>
 		<spring.rabbitmq.version>1.7.5.RELEASE</spring.rabbitmq.version>
 		<dubbo.version>2.6.7</dubbo.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<zookeeper.version>3.4.6</zookeeper.version>
 		<mysql.version>8.0.15</mysql.version>
 		<druid.version>1.1.10</druid.version>
