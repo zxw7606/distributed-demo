@@ -22,7 +22,7 @@
 		<dubbo.version>2.6.7</dubbo.version>
 		<jackson.version>2.9.8</jackson.version>
 		<zookeeper.version>3.4.6</zookeeper.version>
-		<mysql.version>8.0.15</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<druid.version>1.1.10</druid.version>
 		<netty.version>4.1.32.Final</netty.version>
 		<curator-framework.version>4.0.1</curator-framework.version>
