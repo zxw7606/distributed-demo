@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<spring.version>4.3.12.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<tomcat.version>7.0.96</tomcat.version>
 		<validator.version>6.0.15.Final</validator.version>
 		<moneta.version>1.2.1</moneta.version>
